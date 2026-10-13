@@ -13,7 +13,7 @@
   // until a real UUIDv4 is present. The placeholder below exists purely to make
   // the form show the field; the Worker treats it as unset.
   "vars": {
-    "uuid": "REPLACE_WITH_YOUR_UUID",
+    "uuid": "5bea5abf-e4fb-4134-a66a-b8399a0571ed",
     "preferred": "www.shopify.com,mfa.gov.ua,www.visa.cn,store.ubi.com",
     // Relay for reaching Cloudflare-fronted sites. Defaults to a public
     // service: clear this field to turn the fallback off entirely, or replace
